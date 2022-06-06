@@ -1,0 +1,27 @@
+.person {
+    border-radius: 100%;
+}
+
+.masked {
+    border-color: purple;
+}
+
+.sanitized {
+    border-color: purple;
+}
+
+.contagious {
+    background-color: rgb(191, 81, 7);
+}
+
+.infected {
+    background-color: rgb(249, 129, 64);
+}
+
+.clean {
+    background-color: blue;
+}
+
+.air {
+    background-color: white;
+}
